@@ -6,7 +6,7 @@ The solution is based on a **learning-to-rank** approach.
 
 ## Contents
 
-- `glicko.ipynb`: Notebook used to train the model  
+- `glicko_cnn.ipynb`: Notebook used to train the model  
 - `glicko_inference.ipynb`: Notebook for generating predictions on test data  
 
 ## Approach
